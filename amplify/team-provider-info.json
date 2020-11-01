@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-videostream-dev-12402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::089560263727:role/amplify-videostream-dev-12402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::089560263727:role/amplify-videostream-dev-12402-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-videostream-dev-12402-deployment",
+      "UnauthRoleName": "amplify-videostream-dev-12402-unauthRole",
+      "StackName": "amplify-videostream-dev-12402",
+      "StackId": "arn:aws:cloudformation:ap-south-1:089560263727:stack/amplify-videostream-dev-12402/fe348520-1c23-11eb-bec2-0697db35f746",
+      "AmplifyAppId": "d1121ylmuwaybq"
+    },
+    "categories": {
+      "video": {
+        "myvodstreams": {
+          "s3UUID": "gaqs46uj"
+        }
+      }
+    }
+  }
+}
